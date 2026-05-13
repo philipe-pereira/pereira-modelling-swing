@@ -5,8 +5,8 @@ import java.awt.Graphics2D;
 import java.awt.Point;
 import java.awt.geom.Area;
 import java.awt.geom.Point2D;
-import java.awt.geom.Rectangle2D;
 import java.awt.geom.Point2D.Float;
+import java.awt.geom.Rectangle2D;
 import java.util.List;
 
 import br.com.pereiraeng.modelling.modelutils.uml.UMLfield;
